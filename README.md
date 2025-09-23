@@ -1,16 +1,29 @@
 ## Hi there 👋
+# I’m Olga
 
-<!--
-**Belonka/Belonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full-Stack Developer** based in Canada, passionate about building modern, responsive, and user-friendly web applications.  
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Frontend:** React, Next.js, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, PostgreSQL  
+- **Other Tools:** Git, Firebase, Cypress
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- I’m currently working on a web application for companies providing repair and maintenance services.
+- My focus is on state management with Redux and implementing authentication and data storage with Firebase.
+
+## 🌱 About Me
+- I enjoy solving problems through code and creating clean, scalable solutions  
+- Strong interest in UI/UX and team collaboration  
+- Open to new opportunities in software development  
+
+## 📫 Connect with Me
+- https://www.linkedin.com/in/olha-bilous-a21b662ab/
+- belousolya777@gmail.com  
+
+Thanks for visiting my profile! ⭐
+
+
+
